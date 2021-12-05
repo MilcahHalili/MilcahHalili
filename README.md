@@ -1,4 +1,10 @@
-### Hi there 👋
+### 𝕄𝕚𝕝𝕔𝕒𝕙 (they/he)
+### ♍︎ 🌞 · ♊︎ 🌒 · ♌︎ ☝🏽
+
+- 👨🏽‍💻 I'm currently working on [CHANI](https://github.com/chani-nicholas-inc/) and [LIT KIT](https://github.com/MilcahHalili/litkit-ui-preview).
+- 🤓 I'm currently learning React Native and Swift.
+
+📧 at `code` at `milcah` dot `dev`
 
 <!--
 **MilcahHalili/MilcahHalili** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

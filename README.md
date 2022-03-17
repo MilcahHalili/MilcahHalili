@@ -1,4 +1,4 @@
-### 𝕄𝕚𝕝𝕔𝕒𝕙 (they/he)
+### 𝕄𝕚𝕝𝕔𝕒𝕙 (he/him)
 ### ♍︎ 🌞 · ♊︎ 🌒 · ♌︎ ☝🏽
 
 - 👨🏽‍💻 I'm currently working on [CHANI](https://github.com/chani-nicholas-inc/) and [LIT KIT](https://github.com/MilcahHalili/litkit-ui-preview).

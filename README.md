@@ -1,8 +1,8 @@
 ### 𝕄𝕚𝕝𝕔𝕒𝕙 (he/him)
 ### ♍︎ 🌞 · ♊︎ 🌒 · ♌︎ ☝🏽
 
-- 👨🏽‍💻 I'm the Director of Engineering at [CHANI](https://github.com/chani-nicholas-inc/)
-- 🤓 I'm currently learning React Native and TypeScript
+- 👨🏽‍💻 I'm the VP of Engineering at [CHANI](https://github.com/chani-nicholas-inc/).
+- 🤓 I'm currently researching executive coaching programs and learning Webflow.
 
 <!--
 **MilcahHalili/MilcahHalili** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

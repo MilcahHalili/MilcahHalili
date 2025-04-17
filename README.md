@@ -1,7 +1,7 @@
 ### 𝕄𝕚𝕝𝕔𝕒𝕙 (he/him)
 ### ♍︎ 🌞 · ♊︎ 🌒 · ♌︎ ☝🏽
 
-- 🤓 I'm currently starting a software engineering business, bblvdd.
+- 🤓 I'm currently starting a software engineering business, [bblvdd](https://www.bblvdd.com/).
 - 👨🏽‍💻 I'm the former VP of Engineering at [CHANI](https://github.com/chani-nicholas-inc/).
 
 <!--
